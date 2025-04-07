@@ -30,3 +30,7 @@ The vision of this project is to bring transparency, automation, and decentraliz
 - MetaMask (for DApp integration, optional)
 
 📩 Contributions, suggestions, and forks are welcome!
+## Contract Details:
+0x859CE92aA26bb7d6737d7904898E30fF69cB9039
+![image](https://github.com/user-attachments/assets/2514a81e-8705-4c84-b28a-94c8d56b57f7)
+
